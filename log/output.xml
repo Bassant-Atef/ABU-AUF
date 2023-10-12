@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.11.4 on win32)" generated="20231012 10:10:09.039" rpa="false" schemaversion="4">
+<suite id="s1" name="Abuauf" source="C:\MitchDesignsAutomation\AbuAuf Automation\Tests\Abuauf.robot">
+<test id="s1-t1" name="Test Case 1" line="8">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>https://frontend.woosonicpwa.com/login</arg>
+<arg>Firefox</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20231012 10:10:09.473" level="INFO">Opening browser 'Firefox' to base url 'https://frontend.woosonicpwa.com/login'.</msg>
+<msg timestamp="20231012 10:10:09.499" level="INFO">Applicable driver not found; attempting to install with Selenium Manager (Beta)</msg>
+<status status="PASS" starttime="20231012 10:10:09.473" endtime="20231012 10:10:18.683"/>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20231012 10:10:18.683" endtime="20231012 10:10:18.963"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>css:[data-testid=input-username]</arg>
+<arg>mitchdesignstest@gmail.com</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:18.966" level="INFO">Typing text 'mitchdesignstest@gmail.com' into text field 'css:[data-testid=input-username]'.</msg>
+<status status="PASS" starttime="20231012 10:10:18.964" endtime="20231012 10:10:19.215"/>
+</kw>
+<kw name="Input Password" library="SeleniumLibrary">
+<arg>css:[data-testid=input-password]</arg>
+<arg>Mitch1</arg>
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:19.217" level="INFO">Typing password into text field 'css:[data-testid=input-password]'.</msg>
+<msg timestamp="20231012 10:10:19.255" level="INFO">Temporally setting log level to: NONE</msg>
+<msg timestamp="20231012 10:10:19.307" level="INFO">Log level changed from NONE to INFO.</msg>
+<status status="PASS" starttime="20231012 10:10:19.216" endtime="20231012 10:10:19.308"/>
+</kw>
+<kw name="Click Button" library="SeleniumLibrary">
+<arg>تسجيل الدخول</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:19.310" level="INFO">Clicking button 'تسجيل الدخول'.</msg>
+<status status="PASS" starttime="20231012 10:10:19.308" endtime="20231012 10:10:19.644"/>
+</kw>
+<kw name="Page Should Contain" library="SeleniumLibrary">
+<arg>مرحبا</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<msg timestamp="20231012 10:10:19.653" level="INFO">Current page contains text 'مرحبا'.</msg>
+<status status="PASS" starttime="20231012 10:10:19.645" endtime="20231012 10:10:19.653"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3sec</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20231012 10:10:22.658" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20231012 10:10:19.653" endtime="20231012 10:10:22.658"/>
+</kw>
+<kw name="Go To" library="SeleniumLibrary">
+<arg>https://frontend.woosonicpwa.com/offers</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<msg timestamp="20231012 10:10:22.659" level="INFO">Opening url 'https://frontend.woosonicpwa.com/offers'</msg>
+<status status="PASS" starttime="20231012 10:10:22.658" endtime="20231012 10:10:24.470"/>
+</kw>
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<arg>css:[data-testid=add_to_cart-button]</arg>
+<arg>timeout=30s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" starttime="20231012 10:10:24.470" endtime="20231012 10:10:26.080"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>css:[data-testid=add_to_cart-button]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:26.082" level="INFO">Clicking element 'css:[data-testid=add_to_cart-button]'.</msg>
+<status status="PASS" starttime="20231012 10:10:26.081" endtime="20231012 10:10:26.406"/>
+</kw>
+<kw name="Go To" library="SeleniumLibrary">
+<arg>https://frontend.woosonicpwa.com/cart</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<msg timestamp="20231012 10:10:26.407" level="INFO">Opening url 'https://frontend.woosonicpwa.com/cart'</msg>
+<status status="PASS" starttime="20231012 10:10:26.406" endtime="20231012 10:10:27.047"/>
+</kw>
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<arg>css:[data-testid=open_coupon-button]</arg>
+<arg>timeout=30s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" starttime="20231012 10:10:27.047" endtime="20231012 10:10:27.359"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>css:[data-testid=open_coupon-button]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:27.361" level="INFO">Clicking element 'css:[data-testid=open_coupon-button]'.</msg>
+<status status="PASS" starttime="20231012 10:10:27.360" endtime="20231012 10:10:27.643"/>
+</kw>
+<kw name="Page Should Contain Button" library="SeleniumLibrary">
+<arg>اضف</arg>
+<doc>Verifies button ``locator`` is found from current page.</doc>
+<msg timestamp="20231012 10:10:27.668" level="INFO">Current page contains button 'اضف'.</msg>
+<status status="PASS" starttime="20231012 10:10:27.644" endtime="20231012 10:10:27.668"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>css:[data-testid=input-coupon]</arg>
+<arg>CTest</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:27.670" level="INFO">Typing text 'CTest' into text field 'css:[data-testid=input-coupon]'.</msg>
+<status status="PASS" starttime="20231012 10:10:27.669" endtime="20231012 10:10:27.754"/>
+</kw>
+<kw name="Click Button" library="SeleniumLibrary">
+<arg>css:[data-testid=button-submit]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:27.755" level="INFO">Clicking button 'css:[data-testid=button-submit]'.</msg>
+<status status="PASS" starttime="20231012 10:10:27.754" endtime="20231012 10:10:28.052"/>
+</kw>
+<kw name="Page Should Contain" library="SeleniumLibrary">
+<arg>خطأ في البرومو كود</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<msg timestamp="20231012 10:10:28.061" level="INFO">Current page contains text 'خطأ في البرومو كود'.</msg>
+<status status="PASS" starttime="20231012 10:10:28.052" endtime="20231012 10:10:28.061"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>5sec</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20231012 10:10:33.062" level="INFO">Slept 5 seconds</msg>
+<status status="PASS" starttime="20231012 10:10:28.061" endtime="20231012 10:10:33.062"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>css:[data-testid=input-coupon]</arg>
+<arg>${EMPTY}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:33.063" level="INFO">Typing text '' into text field 'css:[data-testid=input-coupon]'.</msg>
+<status status="PASS" starttime="20231012 10:10:33.062" endtime="20231012 10:10:33.090"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>css:[data-testid=input-coupon]</arg>
+<arg>testojja</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:33.091" level="INFO">Typing text 'testojja' into text field 'css:[data-testid=input-coupon]'.</msg>
+<status status="PASS" starttime="20231012 10:10:33.090" endtime="20231012 10:10:33.129"/>
+</kw>
+<kw name="Click Button" library="SeleniumLibrary">
+<arg>css:[data-testid=button-submit]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:33.129" level="INFO">Clicking button 'css:[data-testid=button-submit]'.</msg>
+<status status="PASS" starttime="20231012 10:10:33.129" endtime="20231012 10:10:33.357"/>
+</kw>
+<kw name="Page Should Contain" library="SeleniumLibrary">
+<arg>تم تطبيق البرومو كود بنجاح</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<msg timestamp="20231012 10:10:33.364" level="INFO">Current page contains text 'تم تطبيق البرومو كود بنجاح'.</msg>
+<status status="PASS" starttime="20231012 10:10:33.358" endtime="20231012 10:10:33.364"/>
+</kw>
+<kw name="Click Link" library="SeleniumLibrary">
+<arg>css:[data-testid=checkout-link]</arg>
+<doc>Clicks a link identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:33.365" level="INFO">Clicking link 'css:[data-testid=checkout-link]'.</msg>
+<status status="PASS" starttime="20231012 10:10:33.365" endtime="20231012 10:10:33.597"/>
+</kw>
+<doc>Making an order as logged user -Login with valid data only</doc>
+<tag>001 Smoke</tag>
+<status status="PASS" starttime="20231012 10:10:09.471" endtime="20231012 10:10:33.597"/>
+</test>
+<test id="s1-t2" name="Test Case 2" line="35">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>https://frontend.woosonicpwa.com/login</arg>
+<arg>Firefox</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20231012 10:10:33.600" level="INFO">Opening browser 'Firefox' to base url 'https://frontend.woosonicpwa.com/login'.</msg>
+<msg timestamp="20231012 10:10:33.620" level="INFO">Applicable driver not found; attempting to install with Selenium Manager (Beta)</msg>
+<status status="PASS" starttime="20231012 10:10:33.599" endtime="20231012 10:10:43.377"/>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20231012 10:10:43.378" endtime="20231012 10:10:43.660"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>css:[data-testid=input-username]</arg>
+<arg>mitchdesignstest@gmail.com</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:43.662" level="INFO">Typing text 'mitchdesignstest@gmail.com' into text field 'css:[data-testid=input-username]'.</msg>
+<status status="PASS" starttime="20231012 10:10:43.661" endtime="20231012 10:10:44.061"/>
+</kw>
+<kw name="Input Password" library="SeleniumLibrary">
+<arg>css:[data-testid=input-password]</arg>
+<arg>Mitch1</arg>
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:44.062" level="INFO">Typing password into text field 'css:[data-testid=input-password]'.</msg>
+<msg timestamp="20231012 10:10:44.077" level="INFO">Temporally setting log level to: NONE</msg>
+<msg timestamp="20231012 10:10:44.099" level="INFO">Log level changed from NONE to INFO.</msg>
+<status status="PASS" starttime="20231012 10:10:44.061" endtime="20231012 10:10:44.100"/>
+</kw>
+<kw name="Click Button" library="SeleniumLibrary">
+<arg>تسجيل الدخول</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:44.101" level="INFO">Clicking button 'تسجيل الدخول'.</msg>
+<status status="PASS" starttime="20231012 10:10:44.100" endtime="20231012 10:10:44.472"/>
+</kw>
+<kw name="Page Should Contain" library="SeleniumLibrary">
+<arg>مرحبا</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<msg timestamp="20231012 10:10:44.502" level="INFO">Current page contains text 'مرحبا'.</msg>
+<status status="PASS" starttime="20231012 10:10:44.473" endtime="20231012 10:10:44.502"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>3sec</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20231012 10:10:47.503" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20231012 10:10:44.503" endtime="20231012 10:10:47.503"/>
+</kw>
+<kw name="Go To" library="SeleniumLibrary">
+<arg>https://frontend.woosonicpwa.com/offers</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<msg timestamp="20231012 10:10:47.505" level="INFO">Opening url 'https://frontend.woosonicpwa.com/offers'</msg>
+<status status="PASS" starttime="20231012 10:10:47.503" endtime="20231012 10:10:49.450"/>
+</kw>
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<arg>css:[data-testid=add_to_cart-button]</arg>
+<arg>timeout=30s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" starttime="20231012 10:10:49.450" endtime="20231012 10:10:50.943"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>css:[data-testid=add_to_cart-button]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:50.944" level="INFO">Clicking element 'css:[data-testid=add_to_cart-button]'.</msg>
+<status status="PASS" starttime="20231012 10:10:50.943" endtime="20231012 10:10:51.250"/>
+</kw>
+<kw name="Go To" library="SeleniumLibrary">
+<arg>https://frontend.woosonicpwa.com/cart</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<msg timestamp="20231012 10:10:51.251" level="INFO">Opening url 'https://frontend.woosonicpwa.com/cart'</msg>
+<status status="PASS" starttime="20231012 10:10:51.250" endtime="20231012 10:10:51.961"/>
+</kw>
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<arg>css:[data-testid=open_coupon-button]</arg>
+<arg>timeout=30s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" starttime="20231012 10:10:51.962" endtime="20231012 10:10:52.227"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>css:[data-testid=open_coupon-button]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:52.229" level="INFO">Clicking element 'css:[data-testid=open_coupon-button]'.</msg>
+<status status="PASS" starttime="20231012 10:10:52.228" endtime="20231012 10:10:52.503"/>
+</kw>
+<kw name="Page Should Contain Button" library="SeleniumLibrary">
+<arg>اضف</arg>
+<doc>Verifies button ``locator`` is found from current page.</doc>
+<msg timestamp="20231012 10:10:52.526" level="INFO">Current page contains button 'اضف'.</msg>
+<status status="PASS" starttime="20231012 10:10:52.503" endtime="20231012 10:10:52.526"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>css:[data-testid=input-coupon]</arg>
+<arg>CTest</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:52.527" level="INFO">Typing text 'CTest' into text field 'css:[data-testid=input-coupon]'.</msg>
+<status status="PASS" starttime="20231012 10:10:52.526" endtime="20231012 10:10:52.566"/>
+</kw>
+<kw name="Click Button" library="SeleniumLibrary">
+<arg>css:[data-testid=button-submit]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:52.567" level="INFO">Clicking button 'css:[data-testid=button-submit]'.</msg>
+<status status="PASS" starttime="20231012 10:10:52.566" endtime="20231012 10:10:52.809"/>
+</kw>
+<kw name="Page Should Contain" library="SeleniumLibrary">
+<arg>خطأ في البرومو كود</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<msg timestamp="20231012 10:10:52.815" level="INFO">Current page contains text 'خطأ في البرومو كود'.</msg>
+<status status="PASS" starttime="20231012 10:10:52.809" endtime="20231012 10:10:52.816"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>5sec</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20231012 10:10:57.816" level="INFO">Slept 5 seconds</msg>
+<status status="PASS" starttime="20231012 10:10:52.816" endtime="20231012 10:10:57.816"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>css:[data-testid=input-coupon]</arg>
+<arg>${EMPTY}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:57.817" level="INFO">Typing text '' into text field 'css:[data-testid=input-coupon]'.</msg>
+<status status="PASS" starttime="20231012 10:10:57.816" endtime="20231012 10:10:57.843"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>css:[data-testid=input-coupon]</arg>
+<arg>testojja</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:57.844" level="INFO">Typing text 'testojja' into text field 'css:[data-testid=input-coupon]'.</msg>
+<status status="PASS" starttime="20231012 10:10:57.844" endtime="20231012 10:10:57.879"/>
+</kw>
+<kw name="Click Button" library="SeleniumLibrary">
+<arg>css:[data-testid=button-submit]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:57.879" level="INFO">Clicking button 'css:[data-testid=button-submit]'.</msg>
+<status status="PASS" starttime="20231012 10:10:57.879" endtime="20231012 10:10:58.114"/>
+</kw>
+<kw name="Page Should Contain" library="SeleniumLibrary">
+<arg>تم تطبيق البرومو كود بنجاح</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<msg timestamp="20231012 10:10:58.121" level="INFO">Current page contains text 'تم تطبيق البرومو كود بنجاح'.</msg>
+<status status="PASS" starttime="20231012 10:10:58.114" endtime="20231012 10:10:58.121"/>
+</kw>
+<kw name="Click Link" library="SeleniumLibrary">
+<arg>css:[data-testid=checkout-link]</arg>
+<doc>Clicks a link identified by ``locator``.</doc>
+<msg timestamp="20231012 10:10:58.122" level="INFO">Clicking link 'css:[data-testid=checkout-link]'.</msg>
+<status status="PASS" starttime="20231012 10:10:58.121" endtime="20231012 10:10:58.354"/>
+</kw>
+<kw name="Wait Until Page Contains" library="SeleniumLibrary">
+<arg>css:[data-testid=radio-gift]</arg>
+<arg>timeout=30s</arg>
+<doc>Waits until ``text`` appears on the current page.</doc>
+<msg timestamp="20231012 10:11:28.563" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-67.png"&gt;&lt;img src="selenium-screenshot-67.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20231012 10:11:28.563" level="FAIL">Text 'css:[data-testid=radio-gift]' did not appear in 30 seconds.</msg>
+<status status="FAIL" starttime="20231012 10:10:58.355" endtime="20231012 10:11:28.568"/>
+</kw>
+<kw name="Select Radio Button" library="SeleniumLibrary">
+<arg>css:[data-testid=radio-gift]</arg>
+<arg>value=gift</arg>
+<doc>Sets the radio button group ``group_name`` to ``value``.</doc>
+<status status="NOT RUN" starttime="20231012 10:11:28.568" endtime="20231012 10:11:28.568"/>
+</kw>
+<doc>Making an order as logged user [As a gift]</doc>
+<tag>002 Smoke</tag>
+<status status="FAIL" starttime="20231012 10:10:33.598" endtime="20231012 10:11:28.568">Text 'css:[data-testid=radio-gift]' did not appear in 30 seconds.</status>
+</test>
+<doc>Automation test for AbuAuf</doc>
+<status status="FAIL" starttime="20231012 10:10:09.043" endtime="20231012 10:11:28.569"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="1" fail="0" skip="0">001 Smoke</stat>
+<stat pass="0" fail="1" skip="0">002 Smoke</stat>
+</tag>
+<suite>
+<stat pass="1" fail="1" skip="0" id="s1" name="Abuauf">Abuauf</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

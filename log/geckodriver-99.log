@@ -1,0 +1,22 @@
+1695212720487	geckodriver	INFO	Listening on 127.0.0.1:62116
+1695212723567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilepMYRsu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695212724050	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695212724148	Marionette	INFO	Listening on port 62133
+WebDriver BiDi listening on ws://127.0.0.1:62117
+Read port: 62133
+1695212724450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62117/devtools/browser/f8bd9d7f-534d-497c-993d-f3e414265eb4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+1695212846375	Marionette	INFO	Stopped listening on port 62133
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

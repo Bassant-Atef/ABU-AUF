@@ -1,0 +1,23 @@
+1695213436376	geckodriver	INFO	Listening on 127.0.0.1:63821
+1695213439443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63822" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileqxGmxv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695213439796	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695213439883	Marionette	INFO	Listening on port 63841
+WebDriver BiDi listening on ws://127.0.0.1:63822
+Read port: 63841
+1695213440143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63822/devtools/browser/70ce04d6-2c60-4805-8dd4-75e6d5032b8b
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1695214205883	Marionette	INFO	Stopped listening on port 63841
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))

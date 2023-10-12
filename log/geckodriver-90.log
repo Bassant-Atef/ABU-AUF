@@ -1,0 +1,42 @@
+1695211501187	geckodriver	INFO	Listening on 127.0.0.1:54699
+1695211504239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54700" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile9H6IyC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695211504604	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695211504678	Marionette	INFO	Listening on port 54714
+WebDriver BiDi listening on ws://127.0.0.1:54700
+Read port: 54714
+1695211504883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54700/devtools/browser/c2893cd7-ee73-452f-9c33-77010e949fdd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+1695211554630	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398850, errorCode: 5, reason: timeout
+1695211559691	Marionette	INFO	Stopped listening on port 54714
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/nimbus-web-experiments getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: (new AbortError("IOUtils: Shutting down and refusing additional I/O tasks", (void 0), 885))
+JavaScript error: resource://gre/modules/CrashManager.sys.mjs, line 922: AbortError: IOUtils: Shutting down and refusing additional I/O tasks

@@ -1,0 +1,229 @@
+1695212786303	geckodriver	INFO	Listening on 127.0.0.1:62365
+1695212789369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62366" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilepIwceM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695212790022	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695212790098	Marionette	INFO	Listening on port 62386
+WebDriver BiDi listening on ws://127.0.0.1:62366
+Read port: 62386
+1695212790375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62366/devtools/browser/17b6f38a-038a-4307-bfd9-a8eea0f06bdf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1695212840692	Marionette	INFO	Stopped listening on port 62386
+Dynamically enable window occlusion 1
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed

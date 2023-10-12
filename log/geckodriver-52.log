@@ -1,0 +1,21 @@
+1695166628877	geckodriver	INFO	Listening on 127.0.0.1:61123
+1695166631948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61124" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilepB7nBI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695166632292	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695166632367	Marionette	INFO	Listening on port 61136
+WebDriver BiDi listening on ws://127.0.0.1:61124
+Read port: 61136
+1695166632619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+DevTools listening on ws://127.0.0.1:61124/devtools/browser/6488c020-a99d-4421-9fb9-f4d3ad70de87
+1695166634653	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1695166684715	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398850, errorCode: 5, reason: timeout
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1695166690895	Marionette	INFO	Stopped listening on port 61136
+Dynamically enable window occlusion 1

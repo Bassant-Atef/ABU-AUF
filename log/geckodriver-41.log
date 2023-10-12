@@ -1,0 +1,19 @@
+1695157241405	geckodriver	INFO	Listening on 127.0.0.1:59057
+1695157244469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilei9mcaa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695157245124	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695157245217	Marionette	INFO	Listening on port 59071
+WebDriver BiDi listening on ws://127.0.0.1:59058
+Read port: 59071
+1695157245440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59058/devtools/browser/9ab9b236-0782-46f0-88b9-c240797c7209
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+1695157743916	Marionette	INFO	Stopped listening on port 59071
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))

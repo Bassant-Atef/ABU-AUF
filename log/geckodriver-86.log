@@ -1,0 +1,19 @@
+1695210394775	geckodriver	INFO	Listening on 127.0.0.1:49801
+1695210397853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49802" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileJbWbwM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695210398204	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695210398276	Marionette	INFO	Listening on port 49815
+WebDriver BiDi listening on ws://127.0.0.1:49802
+Read port: 49815
+1695210398529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49802/devtools/browser/a0a489f6-c176-44ec-92d8-d3e498d2c70c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695210815791	Marionette	INFO	Stopped listening on port 49815
+Dynamically enable window occlusion 1

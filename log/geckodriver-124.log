@@ -1,0 +1,26 @@
+1697094610167	geckodriver	INFO	Listening on 127.0.0.1:50297
+1697094613196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50298" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilerhrAbP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697094613588	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697094613671	Marionette	INFO	Listening on port 50306
+WebDriver BiDi listening on ws://127.0.0.1:50298
+Read port: 50306
+1697094613975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50298/devtools/browser/b7225fb3-1d12-49e2-8bc1-618d5dad0cea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697094801463	Marionette	INFO	Stopped listening on port 50306
+Dynamically enable window occlusion 1

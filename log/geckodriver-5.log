@@ -1,0 +1,20 @@
+1695111287604	geckodriver	INFO	Listening on 127.0.0.1:58725
+1695111290882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilePKW6R0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695111291555	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695111291627	Marionette	INFO	Listening on port 58741
+WebDriver BiDi listening on ws://127.0.0.1:58726
+Read port: 58741
+1695111291834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58726/devtools/browser/75b0efed-1973-4b46-b4f4-00eed27d33ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7808
+@https://connect.facebook.net/en_US/fbevents.js:24:65377
+
+1695112853374	Marionette	INFO	Stopped listening on port 58741
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))

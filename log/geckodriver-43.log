@@ -1,0 +1,23 @@
+1695157756120	geckodriver	INFO	Listening on 127.0.0.1:59845
+1695157759163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileg6YYN9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695157759511	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695157759588	Marionette	INFO	Listening on port 59853
+WebDriver BiDi listening on ws://127.0.0.1:59846
+Read port: 59853
+1695157759796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59846/devtools/browser/84b37aa9-0c61-4e5b-b24f-46aaac340498
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1695164957373	Marionette	INFO	Stopped listening on port 59853
+Dynamically enable window occlusion 1
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7808
+@https://connect.facebook.net/en_US/fbevents.js:24:65377
+
+!!! error running onStopped callback: TypeError: callback is not a function

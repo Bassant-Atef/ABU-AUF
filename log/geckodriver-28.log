@@ -1,0 +1,19 @@
+1695116949622	geckodriver	INFO	Listening on 127.0.0.1:53800
+1695116952663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilegQ5fuO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695116953207	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695116953296	Marionette	INFO	Listening on port 53814
+WebDriver BiDi listening on ws://127.0.0.1:53801
+Read port: 53814
+1695116953574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53801/devtools/browser/4ea273f4-f9c5-4cb0-b379-f2f01abffa89
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+1695136712352	Marionette	INFO	Stopped listening on port 53814
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."

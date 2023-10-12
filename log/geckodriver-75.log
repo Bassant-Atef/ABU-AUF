@@ -1,0 +1,19 @@
+1695207809672	geckodriver	INFO	Listening on 127.0.0.1:60296
+1695207812768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileZqJTGL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695207813399	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695207813473	Marionette	INFO	Listening on port 60316
+WebDriver BiDi listening on ws://127.0.0.1:60297
+Read port: 60316
+1695207813728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60297/devtools/browser/4794b816-91cc-4af9-a360-d9f283944f31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1695208024070	Marionette	INFO	Stopped listening on port 60316
+Dynamically enable window occlusion 1

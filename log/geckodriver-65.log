@@ -1,0 +1,18 @@
+1695170463494	geckodriver	INFO	Listening on 127.0.0.1:53077
+1695170466547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilehcxPhK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695170467078	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695170467190	Marionette	INFO	Listening on port 53096
+WebDriver BiDi listening on ws://127.0.0.1:53078
+Read port: 53096
+1695170467526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53078/devtools/browser/5458d56c-9c84-4799-8f4c-98822eb45d0b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1695171123168	Marionette	INFO	Stopped listening on port 53096
+Dynamically enable window occlusion 1

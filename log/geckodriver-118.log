@@ -1,0 +1,28 @@
+1695220963454	geckodriver	INFO	Listening on 127.0.0.1:61612
+1695220966505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile0OfN1O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695220966992	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695220967104	Marionette	INFO	Listening on port 61632
+WebDriver BiDi listening on ws://127.0.0.1:61613
+Read port: 61632
+1695220967427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61613/devtools/browser/0c5e30f5-2c04-45d4-a2f6-c7f25b254cd2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://frontend.woosonicpwa.com/_next/static/chunks/2796-74843f032a9caa92.js, line 1: Script terminated by timeout at:
+a@https://frontend.woosonicpwa.com/_next/static/chunks/2796-74843f032a9caa92.js:1:18195
+90583/a/<@https://frontend.woosonicpwa.com/_next/static/chunks/2796-74843f032a9caa92.js:1:18711
+t@https://frontend.woosonicpwa.com/_next/static/chunks/2796-74843f032a9caa92.js:1:20258
+
+1695221146822	Marionette	INFO	Stopped listening on port 61632
+Dynamically enable window occlusion 1

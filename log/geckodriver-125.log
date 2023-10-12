@@ -1,0 +1,30 @@
+1697094633940	geckodriver	INFO	Listening on 127.0.0.1:50383
+1697094636973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50384" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileSDm707"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697094637349	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697094637433	Marionette	INFO	Listening on port 50391
+WebDriver BiDi listening on ws://127.0.0.1:50384
+Read port: 50391
+1697094637758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50384/devtools/browser/6af11d0d-d0c8-45c5-b19b-eda3fec8d101
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-46b8a784af95ed90.js, line 9: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:66062
+
+1697094758502	Marionette	INFO	Stopped listening on port 50391
+Dynamically enable window occlusion 1

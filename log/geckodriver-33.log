@@ -1,0 +1,29 @@
+1695121700631	geckodriver	INFO	Listening on 127.0.0.1:63018
+1695121703692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileQVIq61"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695121704068	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695121704146	Marionette	INFO	Listening on port 63037
+WebDriver BiDi listening on ws://127.0.0.1:63019
+Read port: 63037
+1695121704373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63019/devtools/browser/6d2091dd-b95a-481c-99fa-a3d9cdb0cc6e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-c5fdb8005581c0c9.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-c5fdb8005581c0c9.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-c5fdb8005581c0c9.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-c5fdb8005581c0c9.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-c5fdb8005581c0c9.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-c5fdb8005581c0c9.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-c5fdb8005581c0c9.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-c5fdb8005581c0c9.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-c5fdb8005581c0c9.js, line 9: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1695136712333	Marionette	INFO	Stopped listening on port 63037
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+!!! error running onStopped callback: TypeError: callback is not a function

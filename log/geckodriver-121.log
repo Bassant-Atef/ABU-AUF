@@ -1,0 +1,18 @@
+1695221778259	geckodriver	INFO	Listening on 127.0.0.1:64039
+1695221781342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64040" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileqtm4fj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695221781984	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695221782059	Marionette	INFO	Listening on port 64064
+WebDriver BiDi listening on ws://127.0.0.1:64040
+Read port: 64064
+1695221782329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64040/devtools/browser/8920d449-9ba2-408c-bc1f-7fddf33a8f95
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+JavaScript error: https://frontend.woosonicpwa.com/_next/static/chunks/fd9d1056-c5fdb8005581c0c9.js, line 9: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1695222294652	Marionette	INFO	Stopped listening on port 64064
+Dynamically enable window occlusion 1

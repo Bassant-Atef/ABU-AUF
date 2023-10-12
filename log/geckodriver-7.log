@@ -1,0 +1,20 @@
+1695111543502	geckodriver	INFO	Listening on 127.0.0.1:59273
+1695111546600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile6yEZj8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695111547255	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695111547329	Marionette	INFO	Listening on port 59295
+WebDriver BiDi listening on ws://127.0.0.1:59274
+Read port: 59295
+1695111547599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59274/devtools/browser/b59afd31-e684-4a9d-8460-9de8cee2a937
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7808
+@https://connect.facebook.net/en_US/fbevents.js:24:65377
+
+1695112852481	Marionette	INFO	Stopped listening on port 59295
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

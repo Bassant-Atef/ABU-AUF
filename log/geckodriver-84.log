@@ -1,0 +1,18 @@
+1695209918780	geckodriver	INFO	Listening on 127.0.0.1:65056
+1695209921844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilet7lmaz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695209922206	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695209922282	Marionette	INFO	Listening on port 65072
+WebDriver BiDi listening on ws://127.0.0.1:65057
+Read port: 65072
+1695209922545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65057/devtools/browser/5ad246e8-6ed2-4945-88a6-33b5a90f8887
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://frontend.woosonicpwa.com."
+1695210356824	Marionette	INFO	Stopped listening on port 65072
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
